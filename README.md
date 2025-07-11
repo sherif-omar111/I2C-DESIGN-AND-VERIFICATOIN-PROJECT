@@ -1,4 +1,4 @@
-# Design and Verification using UVM for Simple ALU 
+# Design and Verification using UVM for I2C
 I2C (pronounced "I-squared-C" or "I-two-C") stands for Inter-Integrated Circuit. It is a serial communication protocol used to allow multiple devices (usually low-speed peripherals) to communicate with a microcontroller or processor using just two wires:
 
 🔌 I2C Lines:
