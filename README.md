@@ -36,7 +36,7 @@ I2C (pronounced "I-squared-C" or "I-two-C") stands for Inter-Integrated Circuit.
 ![image]()
 
 ## 5. Sequence items:
-alu_seq_item
+
 
 ## 6. Sequences:
 
