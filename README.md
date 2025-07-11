@@ -24,7 +24,7 @@ I2C (pronounced "I-squared-C" or "I-two-C") stands for Inter-Integrated Circuit.
 | ------------- | --------- | ----------------- | -----------------------------------------------------------                                        
 | clk	        | input	    | 1-bit	            | System clock signal. Drives the internal FSM and timing of I2C operations.
 | rst	        | input	    | 1-bit	            | Reset signal. Resets internal registers and control logic.
-| wr	        | input	    | 1-bit	            | Write enable. When 1, initiates a write operation; when 0, could imply a read operation (depending on your design).
+| wr	        | input	    | 1-bit	            | Write enable. When 1, initiates a write operation; when 0, could imply a read operation.
 | addr	        | input	    | 7-bit	            | I2C slave address. Specifies which I2C device to communicate with.
 | din	        | input	    | 8-bit	            | Data to be transmitted to the I2C slave in a write operation.
 | datard	    | output	| 8-bit	            | Data received from the slave in a read operation.
