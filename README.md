@@ -36,18 +36,20 @@ I2C (pronounced "I-squared-C" or "I-two-C") stands for Inter-Integrated Circuit.
 ![image]()
 
 ## 5. Sequence items:
-
+i2c_seq_item
 
 ## 6. Sequences:
 
 | Sequence               |
 | ---------------------- |
-|
+| i2c_reset_seq          |
+| i2c_write_seq          |
+| i2c_read_seq           |
 
 ## 7. Tests Scenarios:
 | Test               | Scenario                                                                                  |
 | ------------------ | ----------------------------------------------------------------------------------------- |
-| 
+| i2c_test_all       |
 
 ### Test all 
 ![image]()
