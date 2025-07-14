@@ -49,7 +49,7 @@ i2c_seq_item
 ## 7. Tests Scenarios:
 | Test               | Scenario                                                                                  |
 | ------------------ | ----------------------------------------------------------------------------------------- |
-| i2c_test_all       |
+| i2c_test_all       | reset -> write -> read
 
 ### Test all 
 ![image]()
