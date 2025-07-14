@@ -17,7 +17,7 @@ I2C (pronounced "I-squared-C" or "I-two-C") stands for Inter-Integrated Circuit.
 ## 2. System Architecture:
 
 
-![image]()
+![image](images/arch.PNG)
 
 ## 3. Interface signals:
 | Signal name   | Direction | Signal width      | Description                      
@@ -33,7 +33,7 @@ I2C (pronounced "I-squared-C" or "I-two-C") stands for Inter-Integrated Circuit.
 		
 ## 4. UVM Architecture:
 
-![image]()
+![image](images/uvm_env.PNG)
 
 ## 5. Sequence items:
 i2c_seq_item
@@ -52,14 +52,11 @@ i2c_seq_item
 | i2c_test_all       | reset -> write -> read
 
 ### Test all 
-![image]()
-
-## 8. Assertions:
-
-![image]()
+![image](images/test.PNG)
 
 
-## 9. Coverage:
+## 8. Coverage:
 
-![image]()
+![image](images/coverage.PNG)
+![image](images/cover.PNG)
 

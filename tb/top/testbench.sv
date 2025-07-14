@@ -18,8 +18,6 @@ import uvm_pkg::*;
 `include "test_base.sv"
 `include "test_all.sv"
 
-`include "F:/CV/Projects_CV_github_Links/I2C/rtl/i2c.sv"
-
 module testbench;
 
   reg clk;
